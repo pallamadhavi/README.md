@@ -1,5 +1,5 @@
 # TUTORIALS
-## 1.MINING DATABASE
+## 1.MINING DATABASES
 ### TRANSACTIONAL DATABASES
 
 | Basic | Closed | Maximal | Top -K | Cuda | Pyspark | 
