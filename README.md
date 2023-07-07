@@ -1,6 +1,6 @@
 #TUTORIALS
-##1.MINING DATABASE\n
-###TRANSACTIONAL DATABASES\n
+##1.MINING DATABASE
+###TRANSACTIONAL DATABASES
 
 | Basic | Closed | Maximal | Top -K | Cuda | Pyspark | 
 | :---: | :---: | :---: | :---: | :---: | :---: |
