@@ -1,3 +1,3 @@
 # Tutorials
-##Mining databases
-##Transactional databases
+## Mining databases
+### Transactional databases
